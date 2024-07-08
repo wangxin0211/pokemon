@@ -1,0 +1,5 @@
+torch==1.9.0
+transformers==4.29.2
+diffusers==0.6.0
+datasets==2.13.2
+Pillow==9.2.0
